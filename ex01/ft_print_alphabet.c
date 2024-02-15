@@ -19,9 +19,6 @@ void ft_print_alphabet(void)
 		write(1, &c, 1);
 	}	
  }
- *
- *
- *
  */
 
 int main(){
